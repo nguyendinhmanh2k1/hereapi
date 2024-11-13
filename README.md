@@ -4,7 +4,8 @@ A new Flutter project.
 
 Video chạy app
 
-[Watch my YouTube Shorts video](https://youtube.com/shorts/04DZH9SBniU)
+[![My YouTube Shorts Video](https://img.youtube.com/vi/04DZH9SBniU/0.jpg)](https://youtube.com/shorts/04DZH9SBniU)
+
 
 
 Giao Diện
