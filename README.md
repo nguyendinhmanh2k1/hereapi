@@ -4,10 +4,7 @@ A new Flutter project.
 
 Video chạy app
 
-[![My Demo Video]()]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtube.com/shorts/04DZH9SBniU))
-
-
-
+[Watch my YouTube Shorts video](https://youtube.com/shorts/04DZH9SBniU)
 
 
 Giao Diện
