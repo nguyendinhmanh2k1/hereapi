@@ -3,8 +3,6 @@
 A new Flutter project.
 
 Video chạy app
-![image](https://github.com/user-attachments/assets/2cccb575-d8b3-455c-948b-f2672f9a4d94)
-
 
 Giao Diện
 ![image](https://github.com/user-attachments/assets/9f3923f9-bc59-4fc2-a000-ea024bf9830a)
