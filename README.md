@@ -3,7 +3,8 @@
 A new Flutter project.
 
 Video chạy app
-https://ezgif.com/video-to-gif/ezgif-3-c1a2dc17d1.mp4
+![Converted GIF](https://ezgif.com/video-to-gif/ezgif-3-c1a2dc17d1.gif)
+
 
 Giao Diện
 <img src="https://github.com/user-attachments/assets/9f3923f9-bc59-4fc2-a000-ea024bf9830a" width="250" alt="Giao diện màn hình chính" />
