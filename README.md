@@ -3,7 +3,7 @@
 A new Flutter project.
 
 Video chạy app
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/2cccb575-d8b3-455c-948b-f2672f9a4d94)
 
 
 Giao Diện
