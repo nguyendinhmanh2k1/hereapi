@@ -3,7 +3,8 @@
 A new Flutter project.
 
 Video chạy app
-![Converted GIF](https://s3.ezgif.com/tmp/ezgif-3-b259ea8cf7.gif)
+<img src="https://s3.ezgif.com/tmp/ezgif-3-b259ea8cf7.gif" width="300" alt="Converted GIF"/>
+
 
 
 
