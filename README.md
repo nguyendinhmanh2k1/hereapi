@@ -3,7 +3,7 @@
 A new Flutter project.
 
 Giao Diện
-![image](https://github.com/user-attachments/assets/9f3923f9-bc59-4fc2-a000-ea024bf9830a=100x)
+![image](https://github.com/user-attachments/assets/9f3923f9-bc59-4fc2-a000-ea024bf9830a =100x)
 
 Giao diện màn hình chính
 ![image](https://github.com/user-attachments/assets/d0720828-5553-40e3-aefd-f9483cce5711=100px)
