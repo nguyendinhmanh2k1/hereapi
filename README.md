@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+Video chạy app
+![Uploading image.png…]()
+
+
 Giao Diện
 ![image](https://github.com/user-attachments/assets/9f3923f9-bc59-4fc2-a000-ea024bf9830a)
 
